@@ -1,0 +1,11 @@
+# Ignore all build directories
+build/
+
+# Ignore generated files
+*.user
+*.pro.user
+*.pro.user.*
+
+# Ignore other unnecessary files
+*.log
+*.tmp
